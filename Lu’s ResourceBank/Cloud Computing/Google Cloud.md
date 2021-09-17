@@ -6,8 +6,7 @@
 
 ---
 
-🔗 [GCP - Google Cloud Platform Concep](/Users/lulu/Documents/DevProjects/CloudLearningResources/Lu’s ResourceBank/Cloud Computing/Google Cloud.md)ts
-
+🔗 [GCP - Google Cloud Platform Concepts](https://www.udemy.com/share/101tb63@9scKBeru-a5PXCOtmnh_3baMBnb7xXDah9uXH03UW4UN1yHqvM2QViiyubWRAuekXg==/)
 ---
 
 🔗 [Google Cloud Fundamentals 101: A quick guide to learn GCP](https://www.udemy.com/share/103Lao3@WH9o-sH-C9DZzDqKjVnyxnB-JaUptcQObZADLdWsFq8etC7jeKgFVEvp_G9NvBa_zA==/)

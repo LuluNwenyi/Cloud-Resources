@@ -6,7 +6,7 @@
 
 ---
 
-[Google Cloud](Lu’s ResourceBank/Cloud Computing/Google Cloud.md)
+[Google Cloud](Cloud%20Computing%20cd58231d96b94c2086582ae0a4c4ab98/Google%20Cloud%201ad14e418a0f47769165189c9cf5cb95.md)
 
 ---
 
