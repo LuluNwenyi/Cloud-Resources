@@ -6,7 +6,7 @@
 
 ---
 
-🔗 [GCP - Google Cloud Platform Concep](https://www.udemy.com/share/101tb63@9scKBeru-a5PXCOtmnh_3baMBnb7xXDah9uXH03UW4UN1yHqvM2QViiyubWRAuekXg==/)ts
+🔗 [GCP - Google Cloud Platform Concep](/Users/lulu/Documents/DevProjects/CloudLearningResources/Lu’s ResourceBank/Cloud Computing/Google Cloud.md)ts
 
 ---
 
