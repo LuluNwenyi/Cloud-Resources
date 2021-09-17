@@ -1,8 +1,5 @@
 # Cloud/Devops
 
----
-
-Practice what you learn and build a portfolio as a Cloud/DevOps Engineer
 
 ---
 
